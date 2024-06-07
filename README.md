@@ -25,9 +25,6 @@ Here are some ideas to get you started:
 <p align="left">
 </p>
 
-# Project Title
-
-This project is currently under development. Below is a brief overview of the technologies used in this project.
 
 ## Technologies
 
