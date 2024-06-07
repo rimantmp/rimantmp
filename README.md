@@ -21,9 +21,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rimantmp&theme=monokai" alt="rimantmp" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
+## 🌐 Socials:
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/riman-tampang) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rimantmp&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rimantmp&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rimantmp&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## Technologies
