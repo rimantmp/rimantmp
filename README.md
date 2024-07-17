@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=rimantmp&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies -->
 <!-- ![](https://github-profile-trophy.vercel.app/?username=rimantmp&theme=vision-friendly-dark&no-frame=false&no-bg=false&margin-w=4) -->
 
-## 🌐 Socials:
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rimantmp_) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@rimantampang141) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18933890/riman-tampang) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/riman-tampang) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@rimantmp@mastodon.social) 
 
 <!-- # 💻 Tech Stack:
