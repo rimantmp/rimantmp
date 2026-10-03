@@ -4,7 +4,7 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/rimantmp/rimantmp/output/github-contribution-grid-snake-dark.svg">
+      srcset="https://raw.githubusercontent.com/rimantmp/rimantmp/724cd163fac9a23d8fae6fd8f524ee8c8136dd8a/github-contribution-grid-snake-dark.svg">
 
     <source
       media="(prefers-color-scheme: light)"
