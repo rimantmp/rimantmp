@@ -34,4 +34,6 @@ Here are some ideas to get you started:
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
 
+###
