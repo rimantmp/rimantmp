@@ -16,6 +16,6 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/rimantmp/rimantmp/724cd163fac9a23d8fae6fd8f524ee8c8136dd8a/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
